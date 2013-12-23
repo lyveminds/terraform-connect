@@ -5,10 +5,10 @@ use the [terraform](https://github.com/sintaxi/terraform) asset pipeline as conn
 
 Extracted with some minor modifications from the [harp server](https://github.com/sintaxi/harp) middleware.
 
-[![Build Status](https://secure.travis-ci.org/ceejbot/light-cycle.png)](http://travis-ci.org/lyveminds/terraform-connect)  
-[![Dependencies](https://david-dm.org/ceejbot/light-cycle.png)](https://david-dm.org/lyveminds/terraform-connect)
+[![Build Status](https://secure.travis-ci.org/lyveminds/terraform-connect.png)](http://travis-ci.org/lyveminds/terraform-connect)
+[![Dependencies](https://david-dm.org/lyveminds/terraform-connect.png)](https://david-dm.org/lyveminds/terraform-connect)
 
-[![NPM](https://nodei.co/npm/light-cycle.png)](https://nodei.co/npm/lterraform-connect/)
+[![NPM](https://nodei.co/npm/terraform-connect.png)](https://nodei.co/npm/terraform-connect/)
 
 ## Usage
 
