@@ -23,12 +23,12 @@
     "url": "https://github.com/blackpearlsystems/terraform-connect/issues"
   },
   "dependencies": {
-    "terraform": "~0.6.2",
-    "mime": "~1.2.11"
+    "terraform": "^0.7.0",
+    "mime": "^1.2.11"
   },
   "devDependencies": {
-    "must": "~0.10.0",
-    "mocha": "~1.17.0",
-    "sinon": "~1.7.3"
+    "must": "^0.10.0",
+    "mocha": "^1.18.2",
+    "sinon": "^1.9.0"
   }
 }
